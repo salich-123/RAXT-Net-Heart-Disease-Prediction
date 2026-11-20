@@ -8,3 +8,5 @@ pytorch-tabnet
 matplotlib
 seaborn
 jupyter
+streamlit
+joblib
